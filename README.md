@@ -1,1 +1,2 @@
-# regressao_logistica_churn
+# Reduzindo o churn com o uso da regressão logística
+Artigo disponível em: 
